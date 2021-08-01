@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
-<h3 align="center">A frontend developer from Taiwan,Fan of hiking 🥾 and gym 💪 . 💬 Mandarin/ English/ Korean</h3>
+<h3 align="center">A frontend developer from Taiwan.</h3>
+<h3 align="center">Fan of hiking 🥾 and gym 💪 .</h3>
+<h3 align="center">💬 Mandarin/ English/ Korean</h3>
+
 
 - 📫 How to reach me **chienhowh@gmail.com**
 
